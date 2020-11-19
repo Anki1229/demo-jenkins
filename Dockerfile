@@ -1,3 +1,3 @@
 FROM ubuntu
 WORKDIR /tmp
-RUN echo "Welcome to Docker via Jenkins" > /tmp/testfile1
+RUN echo "This is working fine" > /tmp/testfile2
